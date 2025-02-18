@@ -1,0 +1,2 @@
+# R Subsetting Bug
+This repository demonstrates a common error in R related to subsetting data frames using logical indexing with the '&' operator.  The original code contains a syntax error, leading to unexpected results. The solution file provides corrected code that efficiently subsets the data frame.
